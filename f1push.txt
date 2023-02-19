@@ -3,3 +3,7 @@ Hi, this is first push to github!
 This is for second commit!
 
 This is to check config is changed/different!
+
+This is to to check working of rebase,interactive rebase command with git squash feature application  in the git
+
+ 
